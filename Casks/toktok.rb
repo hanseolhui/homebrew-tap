@@ -8,7 +8,7 @@ cask "toktok" do
   desc "Trackpad TipTap gesture: rest one finger, tap left for back, right for forward"
   homepage "https://github.com/hanseolhui/toktok"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "TokTok.app"
 
