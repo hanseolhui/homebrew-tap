@@ -1,6 +1,6 @@
 cask "toktok" do
-  version "1.0.3"
-  sha256 "c7cce2ba4266fe4deab8c5e260fecfe199fb3515a5b6bf5ae34cff9d68cc6161"
+  version "1.0.4"
+  sha256 "b75b5e12c300d4e5521ec55ccd9902efb9e0b2325c7ba443e21beb3a520aa8ca"
 
   url "https://github.com/hanseolhui/toktok/releases/download/v#{version}/TokTok-#{version}.zip"
   name "TokTok"
