@@ -1,6 +1,6 @@
 cask "ssokssok" do
-  version "0.6.1"
-  sha256 "b5857052d1ceed546a939230a7221f8e64ff849ac9fd244e2478daa30581341d"
+  version "0.7.0"
+  sha256 "7affafa6c1a9c3a0701ebc0e24b375988fb92abfc1959479b26df451b8aa93cf"
 
   url "https://github.com/hanseolhui/ssokssok/releases/download/v#{version}/SsokSsok-#{version}.zip"
   name "SsokSsok"
