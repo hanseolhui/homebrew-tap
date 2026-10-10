@@ -1,6 +1,6 @@
 cask "kokkok" do
-  version "0.3.6"
-  sha256 "debe112fa2f8b858ace5140d8dae404387658cd5db6560e2c785497aed4b0cad"
+  version "0.3.7"
+  sha256 "339678b663d15e59f8543c0f60490f3103b6268908a037a80430f57b86d57707"
 
   url "https://github.com/hanseolhui/kokkok/releases/download/v#{version}/KokKok-#{version}.zip"
   name "KokKok"
