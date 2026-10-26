@@ -1,6 +1,6 @@
 cask "ssakssak" do
-  version "0.9.8"
-  sha256 "d4ddc7d4b989966e22c4897744cfeaac49176abbf50058e04891736ba0872598"
+  version "0.9.9"
+  sha256 "1406626c6ad77a06d3526a997498348d12afc66f50c3f5b63a96545c315f7795"
 
   url "https://github.com/hanseolhui/ssakssak/releases/download/v#{version}/SsakSsak-#{version}.zip"
   name "SsakSsak"
