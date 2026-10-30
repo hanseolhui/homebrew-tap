@@ -1,6 +1,6 @@
 cask "sseudam" do
-  version "1.10.26"
-  sha256 "bc75584296d4602a63f617ec9be8e40734e9c0e01b8404927a5bd80c81b1e128"
+  version "1.10.27"
+  sha256 "ff51ab1f1bacbf2c58619c68a697fb29505d72b216dc30ca3e344625ee87f877"
 
   url "https://github.com/hanseolhui/sseudam/releases/download/v#{version}/Sseudam-mac.zip"
   name "쓰담"
